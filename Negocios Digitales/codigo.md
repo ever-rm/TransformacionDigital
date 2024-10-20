@@ -8,9 +8,7 @@ Aumenta tus probabilidades de éxito con conocimientos en **Negocios** y **Gesti
 
 Aprende a utilizar herramientas que te permitan innovar el modelo de negocios y aportar a la estrategia de crecimiento.
 
-**Cursos**: 11  
-**Duración**: 19 horas  
-**Progreso**: 0 cursos completados
+
 
 ---
 
@@ -18,9 +16,7 @@ Aprende a utilizar herramientas que te permitan innovar el modelo de negocios y 
 
 Aprende sobre distintas áreas clave de gestión, habilidades y herramientas que te ayudarán a prepararte para el proceso de gestión de negocios.
 
-**Cursos**: 7  
-**Duración**: 13 horas  
-**Progreso**: 0 cursos completados
+
 
 ---
 
@@ -28,9 +24,7 @@ Aprende sobre distintas áreas clave de gestión, habilidades y herramientas que
 
 Conviértete en un estratega digital. Comprende las áreas que impulsan el éxito digital y lidera la era digital.
 
-**Cursos**: 8  
-**Duración**: 19 horas  
-**Progreso**: 0 cursos completados
+
 
 ---
 
@@ -38,6 +32,4 @@ Conviértete en un estratega digital. Comprende las áreas que impulsan el éxit
 
 Conoce el lenguaje de los negocios, domina las métricas y comienza a tener conversaciones productivas orientadas a resultados.
 
-**Cursos**: 6  
-**Duración**: 8 horas  
-**Progreso**: 0 cursos completados
+---
