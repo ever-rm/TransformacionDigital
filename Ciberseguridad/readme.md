@@ -2,6 +2,8 @@
 
 Proteger información personal y empresarial, garantiza la privacidad, prevén ciberataques y asegura la continuidad de las operaciones en un mundo cada vez más interconectado.
 
+![](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuNBCoKnELT2rKt3AJx9Iy4ZDoSddSaZDIodDpG40)
+
 ### Ruta: Ciberseguridad Personal
 
 Aprender a proteger tu información y datos personales para evitar fraudes y garantizar la privacidad y seguridad en línea.

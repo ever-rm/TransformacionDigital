@@ -1,0 +1,3 @@
+@startuml MyDiagram
+Alice -> Bob: Hello
+@enduml
