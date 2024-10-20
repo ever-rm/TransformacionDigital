@@ -32,4 +32,11 @@
 
  lenguaje de los negocios, domina las métricas y comienza a tener conversaciones productivas orientadas a resultados.
 
+ ```plantuml
+@startuml
+Alice -> Bob: Hola Bob, ¿cómo estás?
+Bob --> Alice: Estoy bien, gracias
+@enduml
+
+
 ---
