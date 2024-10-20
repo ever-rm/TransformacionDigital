@@ -1,6 +1,7 @@
 # Negocios Digitales
 
  **Negocios** y **Gestión de Proyectos Digitales**.
+![Monitoreo del Traslado Aéreo de Vacunas SARS-CoV-2](C:\Users\EVER\Desktop\maestria unmsm\TransformacionDigital\Negocios Digitales\sistema_monitoreo_vacunas.png)
 
 ---
 
@@ -32,11 +33,7 @@
 
  lenguaje de los negocios, domina las métricas y comienza a tener conversaciones productivas orientadas a resultados.
 
- ```plantuml
-@startuml
-Alice -> Bob: Hola Bob, ¿cómo estás?
-Bob --> Alice: Estoy bien, gracias
-@enduml
+ 
 
 
 ---
