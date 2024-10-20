@@ -1,7 +1,0 @@
-@startuml
-actor Usuario
-actor Sistema
-
-Usuario -> Sistema: Solicitar información
-Sistema --> Usuario: Retornar información
-@enduml
