@@ -1,14 +1,16 @@
 # Negocios Digitales
 
  **Negocios** y **Gestión de Proyectos Digitales**.
-![Herramientas de gestión de proyectos digitales](https://www.inesdi.com/sites/default/files/inline-images/12%20herramientas%20de%20gestio%CC%81n%20de%20proyectos%20digitales-1.jpg)
+Herramientas de gestión de proyectos digitales
 
+![](https://www.inesdi.com/sites/default/files/inline-images/12%20herramientas%20de%20gestio%CC%81n%20de%20proyectos%20digitales-1.jpg)
 ---
 
 ## Ruta: Innovación en Negocios
 
  herramientas que te permitan innovar el modelo de negocios y aportar a la estrategia de crecimiento.
 
+![](https://theflashco.com/wp-content/uploads/2023/11/Shutterstock_2277839591.jpg)
 
 
 ---
