@@ -26,4 +26,5 @@ Facilita la implementación exitosa de Scrum y maximiza el rendimiento del equip
 
 ### Ruta: Cultura organizacional
 
-Fomenta una cultura ágil y creativa, donde tu equipo se sienta motivado para experimentar e innovar.
+Fomenta una cultura ágil y creativa, donde tu equipo se sienta motivado para experimentar e innovar en la EMPRESA.
+
