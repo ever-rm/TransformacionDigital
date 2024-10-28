@@ -15,4 +15,4 @@ Aprender a proteger tu información y datos personales para evitar fraudes y gar
 Estrategias efectivas en ciberseguridad para gerentes y directivos.
 
 
-![](https://drive.google.com/file/d/1r14h02mR_fH_CjPWKopPWLT4EwxYbh_O/view?usp=sharing)
+![](https://drive.google.com/uc?export=view&id=1r1aH02mR_fH_CjPWKOpPWLt4EwxYbh_0)
