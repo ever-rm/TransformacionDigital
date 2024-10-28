@@ -9,3 +9,5 @@
 ### Ruta: Análisis de Datos y Business Intelligence
 
  datos para identificar patrones y tendencias. Crear reportes y visualizaciones estratégicas para el negocio.
+
+ siguiendo con el trabajo
