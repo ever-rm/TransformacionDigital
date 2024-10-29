@@ -1,38 +1,46 @@
 const plantumlEncoder = require('plantuml-encoder');
+
 const diagram = `
 @startuml
-!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+' Configuración de estilo para mejorar la estética
+skinparam rectangle {
+  BackgroundColor #B3C7E6
+  BorderColor black
+  FontColor black
+  RoundCorner 15
+  FontSize 12
+}
+skinparam class {
+  BackgroundColor #B3C7E6
+  BorderColor black
+  FontColor black
+  RoundCorner 15
+  FontSize 12
+}
+skinparam shadowing false
+skinparam linetype ortho
 
-' Definición del estilo
-LAYOUT_WITH_LEGEND()
-LAYOUT_TOP_DOWN()
-
-' Personas
-Person(customer, "Customer", "A customer of the bank with personal bank accounts")
-
-' Sistema de Internet Banking
-System_Boundary(boundary0, "Internet Banking System") {
-  Container(webapp, "Web Application", "Java, Spring MVC", "Delivers static content and the Internet banking SPA")
-  Container(spa, "Single Page Application", "JavaScript, Angular", "Provides all the internet banking functionality")
-  Container(mobileApp, "Mobile App", "C#, Xamarin", "Provides limited banking functionality")
-  ContainerDb(database, "Database", "SQL Database", "Stores user information, auth credentials, etc.")
-  Container(api, "API Application", "Java, Docker", "Provides internet banking functionality via API")
-  
-  ' Relaciones
-  customer -> webapp : Uses
-  webapp -> spa : Delivers
-  spa -> api : Uses [JSON/HTTPS]
-  api -> database : Reads from and writes to [JDBC]
-  mobileApp -> api : Uses [JSON/HTTPS]
+' Categoría principal
+class "Malware Category" as malwareCategory {
 }
 
-' Sistemas externos
-System_Ext(emailSystem, "E-Mail System", "Microsoft Exchange", "Sends e-mails")
-System_Ext(mainframe, "Mainframe Banking System", "Stores core banking information")
+' Subcategorías de malware con cantidad de muestras
+class "Adware\\n17,575" as adware
+class "Backdoor\\n3,393" as backdoor
+class "Banking\\n3,658" as banking
+class "Ransomware\\n3,456" as ransomware
+class "Riskware\\n5,138" as riskware
+class "SMSMalware\\n11,426" as smsmalware
+class "Spyware\\n3,435" as spyware
 
-' Relaciones con sistemas externos
-api -> emailSystem : Sends e-mails [SMTP]
-api -> mainframe : Uses [XML/HTTPS]
+' Relaciones entre categoría principal y subcategorías
+malwareCategory --> adware : Contiene
+malwareCategory --> backdoor : Contiene
+malwareCategory --> banking : Contiene
+malwareCategory --> ransomware : Contiene
+malwareCategory --> riskware : Contiene
+malwareCategory --> smsmalware : Contiene
+malwareCategory --> spyware : Contiene
 
 @enduml
 `;
