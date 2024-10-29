@@ -7,6 +7,8 @@ En la siguiente figura se presenta la distribución de familias de malware y su 
 
 ### Adware 
 
+es un tipo de malware que muestra anuncios de forma disruptiva y agresiva a las víctimas, e incluso puede realizar fraude publicitario para obtener beneficios financieros. Este malware utiliza anuncios emergentes y, en algunos casos, botnets para propagarse. 
+
 ![](https://drive.google.com/uc?export=view&id=1Y2yxDotB47i7oQVRh-dAYOdTD9KcFqJp)
 
-
+ Las estrategias de mitigación incluyen revisar dispositivos para detectar aplicaciones desconocidas, detenerlas, limpiar cachés y datos, y desinstalarlas.
