@@ -34,13 +34,13 @@ class "SMSMalware\\n11,426" as smsmalware
 class "Spyware\\n3,435" as spyware
 
 ' Relaciones entre categoría principal y subcategorías
-malwareCategory --> adware : Contiene
-malwareCategory --> backdoor : Contiene
-malwareCategory --> banking : Contiene
-malwareCategory --> ransomware : Contiene
-malwareCategory --> riskware : Contiene
-malwareCategory --> smsmalware : Contiene
-malwareCategory --> spyware : Contiene
+malwareCategory --> adware 
+malwareCategory --> backdoor 
+malwareCategory --> banking 
+malwareCategory --> ransomware 
+malwareCategory --> riskware 
+malwareCategory --> smsmalware
+malwareCategory --> spyware 
 
 @enduml
 `;
