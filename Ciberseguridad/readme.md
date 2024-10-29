@@ -12,3 +12,15 @@ es un tipo de malware que muestra anuncios de forma disruptiva y agresiva a las 
 ![](https://drive.google.com/uc?export=view&id=1Y2yxDotB47i7oQVRh-dAYOdTD9KcFqJp)
 
  Las estrategias de mitigación incluyen revisar dispositivos para detectar aplicaciones desconocidas, detenerlas, limpiar cachés y datos, y desinstalarlas.
+
+### Backdoor
+
+### Banking Malware
+
+### Ransomware
+
+### Riskware
+
+### SMS Malware
+
+### Spyware
