@@ -2,18 +2,25 @@
 
 Miles de millones de personas en el mundo usan dispositivos Android, lo que los convierte en un objetivo importante para los atacantes de seguridad. Uno de los ataques más peligrosos es la infección de dispositivos con software malicioso (malware).
 
-En la siguiente figura se presenta la distribución de familias de malware y su correspondiente  numero de mustras para su categorizacion.
+En la siguiente figura se presenta la distribución de familias de malware y su correspondiente  numero de muestras para su categorizacion.
 ![](http://www.plantuml.com/plantuml/png/lPEnRjim48PtFiKX7ReeWwB8RfSYYT5kMUpLovba54RKKJXI2DmW3zIXKn_1BrPGf1IdKDQk___nJlm8YHiVaCFGMV4PDeuUJ3CmIdFwGw0qQ1-CTT0Z8tJwoJ4oM8pnwLSm4eLl3SMs0zOo83LMmui0k4FPDkm6KXjd7SEdksgp_hwAZMEbEQK7Yx8L03ySXVV9DXrbqWnbdP6T-QcXl1AlPskbHU__xqh_YCez6shW0QtNPuqrfCEnr-0uF3eHbMBGZUFJRuIU3KdJenNfco_kqJuZwuavNW1ww58uPV0YNkEStN2GyoWVdoQ381s1H0f6eHhpGVl0wASjjofYUohNHRsknnquHXCGlIddU4zLKNsjHkAGipU6MaDDH5RrbuoCqKHiaRphqgggkAvN8yHpEdF6jucgYx9AepXd4xExtsKtUohBuleg3VETpvUUmVuuRwpItNoAehEjjYYD8-r1KuYg5Xu3Zk3VkHN_li3bvRTi31QxoTL7xQXfkNpJyq6VnIotPpuMwsG2XBZHfE8V_XS0)
 
-### Ruta: Ciberseguridad Personal
 
-Aprender a proteger tu información y datos personales para evitar fraudes y garantizar la privacidad y seguridad en línea.
+### Adware
+ Es un tipo de malware que muestra anuncios de forma disruptiva y agresiva a las víctimas, e incluso puede realizar fraude publicitario para obtener beneficios financieros. Este malware utiliza anuncios emergentes y, en algunos casos, botnets para propagarse. Las estrategias de mitigación incluyen revisar dispositivos para detectar aplicaciones desconocidas, detenerlas, limpiar cachés y datos, y desinstalarlas.
 
-![](http://www.plantuml.com/plantuml/png/ZLHDR-Cs4BthLxogXtK0EUvXJpu4wzX6Du6Tg6kdsI9O62DgR0z2aG99vGD5VrL_GlzOGTboOdUnw6quCtoFysQ6oISVo8McqibFOfHkIiOsXDeF1mD7p-SR2TkcQ3mxPKrW4ywLhGQr9XFlz7qejHI3yST-7brtyzcW8X_O3SOVLsDh0ebXTrv7_EG39hmM8qh--TkWP0tsGRHDPgC_Rk-Mg_khvUVLRFhhz6RIE-kSozjyDRczl-cTHO2SdRU6VB8pUghnmLRiCgJZlPbcI4Ve0h1hX2sZ8FE8PmbRr3i8lNEHKhOnmQSj_49yu8fGCgvCO6Suu9BCevXDidYDiTMbRKn9xhLNx8rVCgIdoTWbfsVuCm4EElIUkQ2wpf3USu5HNMjH5CIQ-EPhUg8CYzh5-_FVnz4tOIrFx3nye20A-nw0JDbMTU0jEjvyb9uTKVgQCgGBCHlDo6d3t-DTA2Tro30ocqPJAs7kx9EKx45QjrnoohLkZ8eWf2Mydh1MjX3DexRMUMj7seWx_Zd3Lwh8YJcYqL99uFB_e4-ANac12l8SDTgR4Mtnsmn7vs0TUyJnXPYrTLLRTWPgmXRASSac26cVWOCwFoc2Qecpb5zzlrKJgnxvMAiVQuGd8OpogvOc0JxW2sjIOWtx16yZsx_0Rb0mn9rlO_jp_mA-9WpH3KQ2rj6_0DMoJyV3zUBsPl1vkSmNtnAqaVu5Eiamn1UcqcFjRDLEqhEJm1x1uk5wSZcETmxz-n7qN-zMneDVOktMTuioVGazhaZqxfmXdVRd9BhRZJWPefprTXqmVL5RCfjTqzYK7joFT-DUliEhICpQKHNxFk_iqwLxwxkoZW-jUDV_tRA_YH_t2lu_XUo5UrS4XZXw7HuMysN-hSiyFEyWrzVvh5Ch-SIcZF_Wlm00)
+Además, se recomienda limpiar cachés y cookies del navegador, usar bloqueadores de anuncios y ser cauteloso al hacer clic en anuncios web.
 
-### Ruta: Ciberseguridad para Gerentes y Directivos
+En cuanto a los datos específicos:
 
-Estrategias efectivas en ciberseguridad para gerentes y directivos.
+Bajo la categoría Adware, se encontraron:
+1,515 muestras de CICAndMal-2020.
+1,008 y 1,163 muestras de GitHub.
+1,469 muestras de AMD.
+14,495 muestras del resto de los conjuntos de datos.
+Ejemplos de familias:
+"Dowgin": 3,384 muestras de AMD y 10 muestras de DREBIN.
+"Xavier": Muestras de GitHub de dos fuentes distintas.
 
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1r14h02mR_fH_CjPWKopPWLT4EwxYbh_O)
+
