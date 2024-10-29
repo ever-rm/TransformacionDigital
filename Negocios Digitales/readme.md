@@ -1,6 +1,6 @@
 # Negocios Digitales
 
-Probando cambios
+Probando cambios de edición en vivo
 
  **Negocios** y **Gestión de Proyectos Digitales**.
 Herramientas de gestión de proyectos digitales
