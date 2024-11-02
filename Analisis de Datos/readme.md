@@ -34,9 +34,9 @@ Para maximizar el impacto del análisis de datos en la gestión de proyectos, es
 
 El análisis de datos y Business Intelligence son críticos para identificar patrones, realizar predicciones y desarrollar estrategias informadas en la gestión de proyectos. Estas herramientas permiten a los gestores visualizar y comprender tendencias que impactan directamente en la eficiencia del proyecto.
 
-- **Identificación de patrones y tendencias**: Los modelos de Machine Learning y minería de datos permiten descubrir patrones de éxito o fracaso en proyectos anteriores, ajustando tácticas en tiempo real. La UNMSM, en su artículo "Aplicación de Machine Learning en la Predicción de Éxito de Proyectos" (2023), subraya que la identificación de patrones contribuye a reducir la incertidumbre y mejorar la planificación de recursos, elevando la tasa de éxito de los proyectos.
+- **Identificación de patrones y tendencias**: Los modelos de Machine Learning y minería de datos permiten descubrir patrones de éxito o fracaso en proyectos anteriores, ajustando tácticas en tiempo real. La identificación de patrones contribuye a reducir la incertidumbre y mejorar la planificación de recursos, elevando la tasa de éxito de los proyectos.
 
-- **Predicción de riesgos**: La analítica predictiva anticipa posibles riesgos y desafíos, permitiendo a los gestores tomar medidas proactivas. En “Risk Prediction and Management with Business Intelligence” (N. Gupta, 2021, Scopus), se menciona que los sistemas de BI con modelos predictivos pueden reducir riesgos en un 28%, especialmente en proyectos con alta incertidumbre.
+- **Predicción de riesgos**: La analítica predictiva anticipa posibles riesgos y desafíos, permitiendo a los gestores tomar medidas proactivas. Los sistemas de BI con modelos predictivos pueden reducir riesgos, especialmente en proyectos con alta incertidumbre.
 
 - **Creación de reportes y visualizaciones estratégicas**: Transformar datos en informes comprensibles y visualizaciones impactantes es clave para tomar decisiones informadas. Herramientas como *Google Data Studio* y *Power BI* permiten crear reportes que resaltan insights críticos para los stakeholders. La UNMSM sugiere que estas herramientas no solo facilitan la comunicación, sino que también aumentan la transparencia y la confianza entre los stakeholders del proyecto.
 
