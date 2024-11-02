@@ -2,6 +2,8 @@
 
 Este **Dashboard de Ciencia de Datos en la Gestión de Proyectos** está diseñado para mostrar cómo la ciencia de datos está transformando la gestión moderna de proyectos. A través de la integración de herramientas de análisis de datos, Business Intelligence y automatización, este recurso permite optimizar la toma de decisiones, aumentar la productividad y mejorar el rendimiento del equipo en cada etapa del proyecto.
 
+![Herramientas de Análisis de Datos](resources/Analisis_Datos_GP.png)
+
 ## Análisis de Datos
 
 El análisis de datos permite a las organizaciones aprovechar la inteligencia colectiva y mejorar la toma de decisiones informadas mediante herramientas de transformación digital, Big Data y analítica avanzada. Estas capacidades elevan la eficiencia de recursos, mejoran la previsión de riesgos y fortalecen la calidad de las decisiones estratégicas.
