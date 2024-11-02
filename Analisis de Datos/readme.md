@@ -38,5 +38,5 @@ El análisis de datos y Business Intelligence son críticos para identificar pat
 
 ## Conclusión
 
-La ciencia de datos es un pilar fundamental en la gestión de proyectos moderna, aportando herramientas y metodologías que optimizan la toma de decisiones, incrementan la productividad y mejoran el rendimiento del equipo. A través del análisis de datos avanzado, la identificación de patrones y la automatización de procesos, los gestores pueden obtener resultados superiores y adaptarse rápidamente a los cambios. Este dashboard actúa como un recurso estratégico para implementar una cultura de datos y maximizar el valor de cada proyecto.
+La ciencia de datos es un pilar fundamental en la gestión de proyectos moderna, aportando herramientas y metodologías que optimizan la toma de decisiones, incrementan la productividad y mejoran el rendimiento del equipo. A través del análisis de datos avanzado, la identificación de patrones y la automatización de procesos, los gestores pueden obtener resultados superiores y adaptarse rápidamente a los cambios.
 
