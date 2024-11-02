@@ -1,4 +1,4 @@
-# Dashboard de Ciencia de Datos en la Gestión de Proyectos
+# Ciencia de Datos en la Gestión de Proyectos
 
 Este **Dashboard de Ciencia de Datos en la Gestión de Proyectos** está diseñado para mostrar cómo la ciencia de datos está transformando la gestión moderna de proyectos. A través de la integración de herramientas de análisis de datos, Business Intelligence y automatización, este recurso permite optimizar la toma de decisiones, aumentar la productividad y mejorar el rendimiento del equipo en cada etapa del proyecto.
 
