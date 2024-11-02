@@ -1,6 +1,6 @@
 # Ciencia de Datos en la Gestión de Proyectos
 
-Este **Dashboard de Ciencia de Datos en la Gestión de Proyectos** está diseñado para mostrar cómo la ciencia de datos está transformando la gestión moderna de proyectos. A través de la integración de herramientas de análisis de datos, Business Intelligence y automatización, este recurso permite optimizar la toma de decisiones, aumentar la productividad y mejorar el rendimiento del equipo en cada etapa del proyecto.
+**La de Ciencia de Datos en la Gestión de Proyectos** está diseñado para mostrar cómo la ciencia de datos está transformando la gestión moderna de proyectos. A través de la integración de herramientas de análisis de datos, Business Intelligence y automatización, este recurso permite optimizar la toma de decisiones, aumentar la productividad y mejorar el rendimiento del equipo en cada etapa del proyecto.
 
 ## Ejemplos de Herramientas de Análisis de Datos
 
@@ -12,8 +12,9 @@ Este **Dashboard de Ciencia de Datos en la Gestión de Proyectos** está diseña
 
 El análisis de datos permite a las organizaciones aprovechar la inteligencia colectiva y mejorar la toma de decisiones informadas mediante herramientas de transformación digital, Big Data y analítica avanzada. Estas capacidades elevan la eficiencia de recursos, mejoran la previsión de riesgos y fortalecen la calidad de las decisiones estratégicas.
 
-![Diagrama de Análisis de Datos](resources/Analisis_Datos_GP_03.png)
-*Diagrama que ilustra el flujo de trabajo en análisis de datos.*
+| ![Diagrama de Análisis de Datos](resources/Analisis_Datos_GP_03.png) |
+|:---:|
+| **Diagrama que ilustra el flujo de trabajo en análisis de datos.** |
 
 - **Beneficios del análisis de datos en la gestión de proyectos**: Al analizar grandes volúmenes de datos, los gestores pueden identificar patrones en el desempeño de proyectos anteriores, predecir resultados futuros y ajustar estrategias en tiempo real, lo que promueve la adaptabilidad en entornos dinámicos.
 
