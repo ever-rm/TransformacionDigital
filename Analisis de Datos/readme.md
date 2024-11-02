@@ -38,7 +38,7 @@ El análisis de datos y Business Intelligence son críticos para identificar pat
 
 - **Predicción de riesgos**: La analítica predictiva anticipa posibles riesgos y desafíos, permitiendo a los gestores tomar medidas proactivas. Los sistemas de BI con modelos predictivos pueden reducir riesgos, especialmente en proyectos con alta incertidumbre.
 
-- **Creación de reportes y visualizaciones estratégicas**: Transformar datos en informes comprensibles y visualizaciones impactantes es clave para tomar decisiones informadas. Herramientas como *Google Data Studio* y *Power BI* permiten crear reportes que resaltan insights críticos para los stakeholders. La UNMSM sugiere que estas herramientas no solo facilitan la comunicación, sino que también aumentan la transparencia y la confianza entre los stakeholders del proyecto.
+- **Creación de reportes y visualizaciones estratégicas**: Transformar datos en informes comprensibles y visualizaciones impactantes es clave para tomar decisiones informadas. Herramientas como *Google Data Studio* y *Power BI* permiten crear reportes que resaltan insights críticos para los stakeholders. Estas herramientas no solo facilitan la comunicación, sino que también aumentan la transparencia y la confianza entre los stakeholders del proyecto.
 
 ## Conclusión
 
