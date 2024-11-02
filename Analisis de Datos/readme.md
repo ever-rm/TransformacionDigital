@@ -1,8 +1,8 @@
 # Ciencia de Datos en la Gestión de Proyectos
 
-**La de Ciencia de Datos en la Gestión de Proyectos** está diseñado para mostrar cómo la ciencia de datos está transformando la gestión moderna de proyectos. A través de la integración de herramientas de análisis de datos, Business Intelligence y automatización, este recurso permite optimizar la toma de decisiones, aumentar la productividad y mejorar el rendimiento del equipo en cada etapa del proyecto.
+**La Ciencia de Datos en la Gestión de Proyectos** está diseñado para mostrar cómo la ciencia de datos está transformando la gestión moderna de proyectos. A través de la integración de herramientas de análisis de datos, Business Intelligence y automatización, este recurso permite optimizar la toma de decisiones, aumentar la productividad y mejorar el rendimiento del equipo en cada etapa del proyecto.
 
-## Ejemplos de Herramientas de Análisis de Datos
+## Herramientas de Análisis de Datos
 
 | ![Herramienta 1](resources/Analisis_Datos_GP.png) | ![Herramienta 2](resources/Analisis_Datos_GP_01.png) | ![Herramienta 3](resources/Analisis_Datos_GP_02.png) |
 |:---:|:---:|:---:|
@@ -25,10 +25,6 @@ El análisis de datos permite a las organizaciones aprovechar la inteligencia co
 ## Ruta: Herramientas de Negocios
 
 Para maximizar el impacto del análisis de datos en la gestión de proyectos, es fundamental integrar herramientas de negocio que faciliten la organización y la productividad del equipo. Estas herramientas son clave para implementar estrategias basadas en datos y mejorar el flujo de trabajo.
-
-| ![Herramienta de Productividad](resources/Herramienta_Productividad.png) | ![Automatización](resources/Automatizacion.png) | ![Visualización de Datos](resources/Visualizacion_Datos.png) |
-|:---:|:---:|:---:|
-| **Gestión de Tareas y Productividad** | **Automatización de Procesos** | **Visualización de Datos** |
 
 ## Ruta: Análisis de Datos y Business Intelligence
 
