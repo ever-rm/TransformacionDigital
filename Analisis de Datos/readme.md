@@ -1,12 +1,18 @@
 # Ciencia de Datos en la Gestión de Proyectos
 
-Este **Dashboard de Ciencia de Datos en la Gestión de Proyectos** está diseñado para mostrar cómo la ciencia de datos está transformando la gestión moderna de proyectos. A través de la integración de herramientas de análisis de datos, Business Intelligence y automatización, este recurso permite optimizar la toma de decisiones, aumentar la productividad y mejorar el rendimiento del equipo en cada etapa del proyecto.
+Este **La Ciencia de Datos en la Gestión de Proyectos** está diseñado para mostrar cómo la ciencia de datos está transformando la gestión moderna de proyectos. A través de la integración de herramientas de análisis de datos, Business Intelligence y automatización, este recurso permite optimizar la toma de decisiones, aumentar la productividad y mejorar el rendimiento del equipo en cada etapa del proyecto.
 
 ![Herramientas de Análisis de Datos](resources/Analisis_Datos_GP.png)
+
+![Herramientas de Análisis de Datos](resources/Analisis_Datos_GP_01.png)
+
+![Herramientas de Análisis de Datos](resources/Analisis_Datos_GP_02.png)
 
 ## Análisis de Datos
 
 El análisis de datos permite a las organizaciones aprovechar la inteligencia colectiva y mejorar la toma de decisiones informadas mediante herramientas de transformación digital, Big Data y analítica avanzada. Estas capacidades elevan la eficiencia de recursos, mejoran la previsión de riesgos y fortalecen la calidad de las decisiones estratégicas.
+
+![Herramientas de Análisis de Datos](resources/Analisis_Datos_GP_03.png)
 
 - **Beneficios del análisis de datos en la gestión de proyectos**: Al analizar grandes volúmenes de datos, los gestores pueden identificar patrones en el desempeño de proyectos anteriores, predecir resultados futuros y ajustar estrategias en tiempo real. Según la Universidad Nacional Mayor de San Marcos (UNMSM), en su artículo "Transformación Digital en la Gestión de Proyectos" (2022), la integración de datos reduce los márgenes de error y permite respuestas ágiles ante cambios o crisis imprevistas, lo que promueve la adaptabilidad en entornos dinámicos.
 
